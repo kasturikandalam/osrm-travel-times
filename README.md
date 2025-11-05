@@ -23,3 +23,12 @@ This version is designed for small and medium-sized research tasks using the pub
 git clone https://github.com/<your-username>/osrm-travel-times.git
 cd osrm-travel-times
 pip install -r requirements.txt
+
+osrm-travel-times/
+├─ osrm_tools.py           # Core functions (matrix + pairwise)
+├─ examples/
+│  ├─ demo_points.csv      # Coordinates for Delhi landmarks
+│  └─ demo_run.py          # Example walkthrough
+├─ results/                # Output CSVs (not tracked by git)
+├─ requirements.txt
+└─ README.md
