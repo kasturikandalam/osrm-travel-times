@@ -1,5 +1,3 @@
-Aim: Tools for computing travel-time and distance matrices using OSRM. Supports many-to-many routing, reproducible workflows, and local OSRM server setup for research-scale spatial analysis.
-
 # OSRM Travel Time Tools
 
 This repository provides tools for generating travel-time and distance matrices using the Open Source Routing Machine (OSRM).  
